@@ -1,0 +1,354 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    }
+
+
+
+
+.container{
+width: 1140px;
+height: 80px;
+margin: auto;
+
+}
+
+nav{
+    width: 1273px;
+    height: 59px;
+    padding-top: 41px;
+    display: flex;
+}
+
+nav ul{
+    padding: 20px;
+    display: flex;
+margin-left: 200px;
+gap: 100px;
+}
+
+nav ul li{
+font-weight: 500;
+font-size: 20px;
+line-height: 16px;
+align-items: center;
+}
+nav ul li a{
+color: rgba(102, 102, 102, 1);
+
+}
+
+nav ul li a span{
+margin: 10px;
+
+
+}
+
+.icons{
+display: flex;
+gap: 30px;
+padding: 13px;
+margin-left: 10px;
+color: rgba(102, 102, 102, 1);
+font-size: 30px;
+}
+
+.container1{
+    width: 1140px;
+    height: 80px;
+    margin: auto;
+
+
+}
+
+.hider_mein{
+margin-top: 100px;
+
+
+
+}
+
+.hid_text_img{
+    display: flex;
+    padding-top: 40px;
+}
+
+.text_hid{
+width: 636px;
+height: 297px;
+
+}
+
+.text_hid h1{
+font-weight: 700;
+font-size: 48px;
+line-height: 70px;
+letter-spacing: -1px;
+margin-top: 40px;
+}
+
+.text_hid span{
+    background: linear-gradient(90deg, #13B0F5 -2.06%, #E70FAA 100%);
+;
+
+}
+
+.text_hid span{
+    color:  #ff70d77c ;
+}
+
+.img img{
+width: 349px;
+height: 349px;
+border-radius: 200px;
+border: 9px color(linear-gradient(180deg, #E70FAA 0%, #00C0FD 100%)); ;
+
+
+}
+
+
+.img{
+margin-left: 50px;
+
+
+}
+
+.tech_atacs{
+    padding-top: 200px;
+    margin-left: 350px;
+}
+
+.tech_atacs h2{
+font-weight: 700;
+font-size: 48px;
+line-height: 26px;
+align-items: center;
+margin-left: 100px;
+color: rgba(66, 68, 110, 1);
+}
+
+.tech_atacs p{
+font-weight: 400;
+font-size: 32px;
+line-height: 26px;
+color: rgba(102, 102, 102, 1);
+margin-top: 30px;
+}
+
+.icoons{
+display: flex;
+gap: 50px;
+font-size: 50px;
+padding: 40px;
+margin-left: 150px;
+}
+
+.html_icon{
+    color:#fd6500;
+
+
+}
+
+.css_icon{
+    color:#00affd;
+
+
+}
+
+.js_icon{
+    color:#fde900;
+
+
+}
+
+.react_icon{
+    color:#00fde4;
+
+
+}
+
+.bootstrapt_icon{
+    color:#c000fd;
+
+}
+
+.vscode_icon{
+    color:#005afd;
+
+
+
+}
+
+.githube_icon{
+    color:#040404;
+
+
+
+}
+
+
+.git_icon{
+color: orange;
+}
+
+.sass_icon{
+color: pink;
+
+
+}
+
+.taill_icon{
+color: #1fbcbc;
+
+}
+
+.card1{
+    width: 373px;
+    height: 567px;
+    border-radius: 20px;
+background-color: rgba(0, 0, 0, 0.082);
+
+
+}
+
+.link_cail{
+    display: flex;
+   gap: 40px;
+   padding: 20px;
+  margin-left: 10px;
+}
+
+.icon1 a{
+    text-decoration: underline;
+color: #040404;
+
+
+
+}
+
+.icon2 a{
+    text-decoration: underline;
+color: #040404;
+
+}
+
+.projekt{
+margin-left: 500px;
+padding-top: 200px;
+
+}
+
+
+.projekt h3{
+font-weight: 700;
+font-size: 48px;
+line-height: 26px;
+align-items: center;
+margin-left: 50px;
+color: rgba(66, 68, 110, 1);
+}
+
+.projekt p{
+font-weight: 400;
+font-size: 32px;
+line-height: 26px;
+margin-top: 20px;
+align-items: center;
+color: rgba(102, 102, 102, 1);
+}
+
+.cards2{
+margin-top: 60px;
+display: flex;
+
+}
+
+.cards3{
+display: grid;
+grid-template-columns: auto auto auto;
+gap: 20px;
+}
+
+.card1 h4{
+font-weight: 500;
+font-size: 28px;
+line-height: 26px;
+align-items: center;
+margin-left: 10px;
+padding: 20px;
+}
+
+.card1 p{
+font-weight: 300;
+font-size: 18px;
+line-height: 26px;
+color: rgba(102, 102, 102, 1);
+margin-left: 35px;
+}
+
+.card1 span{
+font-weight: 300;
+font-size: 14px;
+line-height: 26px;
+margin-left: 30px;
+color:  rgba(102, 102, 102, 1);
+}
+
+footer{
+margin-top: 100px;
+
+
+}
+
+.icon{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+
+
+.nav2{
+    display: flex;
+    align-items: center;
+}
+
+.nav2 ul{
+    padding: 20px;
+    display: flex;
+gap: 50px;
+
+}
+
+.nav2 ul li{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    align-items: center;
+    }
+
+    .nav2 ul li a{
+        color: rgba(102, 102, 102, 1);
+        
+        }
+
+
+.paragrf{ 
+margin-left: 200px;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+
+}
+
+.paragrf p{
+color:  rgba(102, 102, 102, 1);
+}
+
+.paragrf span{
+color: #fc2afc;
+
+}
